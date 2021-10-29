@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theprasenjeet](https://in.linkedin.com/in/theprasenjeet)
 
-- 📝 I regularly write articles on [http://postvidia.com](http://postvidia.com)
+- 📝 I regularly write articles on [https://postvidia.com](https://postvidia.com)
 
 - 💬 Ask me about **java**
 
