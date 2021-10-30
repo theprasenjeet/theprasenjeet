@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on [KravinGO](https://kravingo.com)
 
-- 🤝 I’m looking for help with [Kartexa](https://kartexa.com)
-
 - 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theprasenjeet](https://in.linkedin.com/in/theprasenjeet)
 
-- 📝 I regularly write articles on [https://postvidia.com](https://postvidia.com)
+- 📝 I regularly write articles on [https://kartexa.in](https://kartexa.in)
 
 - 💬 Ask me about **java**
 
