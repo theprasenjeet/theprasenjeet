@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
-- 🌱 I’m currently learning **Laravel and Machine Learning From Standford University**
+- 🌱 I’m currently learning **Laravel and Machine Learning**
 
 - 👯 I’m looking to collaborate on [KravinGO](https://kravingo.com)
 
@@ -12,8 +12,6 @@
 - 📝 I regularly write articles on [https://kartexa.in](https://kartexa.in)
 
 - 💬 Ask me about **java**
-
-- 📫 How to reach me **CEO@kartexa.com**
 
 - 📄 Know about my experiences [https://kartexa.com/prasen.pdf](https://kartexa.com/prasen.pdf)
 
