@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theprasenjeet](https://in.linkedin.com/in/theprasenjeet)
 
-- 📝 I regularly write articles on [https://kartexa.in](https://kartexa.in)
+
 
 - 💬 Ask me about **java**
 
