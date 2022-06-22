@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm \Prasen Jeet</h1>
 <h3 align="center">Software Engineer</h3>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theprasenjeet&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
