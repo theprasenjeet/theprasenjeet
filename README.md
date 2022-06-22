@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm \Prasen Jeet</h1>
 <h3 align="center">A developer</h3>
 
+![Prasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprasenjeet&theme=dark&show_icons=true)
+
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
 - 🌱 I’m currently learning **Laravel and Machine Learning**
