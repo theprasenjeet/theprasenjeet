@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm \Prasen </h1>
 <h3 align="center">DevOps Engineer</h3>
-![Prasen's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprasenjeet&theme=dark&show_icons=true)
+
 
 
 
