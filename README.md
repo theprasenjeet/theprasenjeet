@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm \Prasen </h1>
 <h3 align="center">DevOps Engineer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theprasenjeet&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=theprasenjeet&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
