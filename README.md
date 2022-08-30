@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm \Prasen </h1>
 <h3 align="center">DevOps Engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprasenjeettheme=dark_lover&column=4&margin-w=15&margin-h=15" alt="theprasenjeet" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprasenjeet&theme=dark_lover&column=4&margin-w=15&margin-h=15" alt="theprasenjeet" /></a> </p>
 
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
