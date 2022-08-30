@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [KravinGO](https://kravingo.com)
+- 👯 Connect with me on LinkedIn [KravinGO](https://in.linkedin.com/in/theprasenjeet)
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theprasenjeet](https://in.linkedin.com/in/theprasenjeet)
+- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theprasenjeet](https://github.com/theprasenjeet)
 
 
 
