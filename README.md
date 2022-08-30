@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm \Prasen </h1>
 <h3 align="center">DevOps Engineer</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theprasenjeet" alt="theprasenjeet" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=theprasenjeet&no-frame=true
 
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
