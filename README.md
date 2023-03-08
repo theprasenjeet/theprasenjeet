@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/theprasenjeet"><img src="https://github-profile-trophy.vercel.app/?username=theprasenjeet&theme=dark_lover&column=4&margin-w=15&margin-h=15&no-frame=true" alt="theprasenjeet" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Advance ML**
 
 
 - 🔭 I’m currently working on [KravinGO](https://kravingo.com)
 
 
-- 👯 Connect with me on LinkedIn [LinkedIn](https://in.linkedin.com/in/theprasenjeet)
+- 👯 Connect with me on [LinkedIn](https://in.linkedin.com/in/theprasenjeet)
 
 - 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/theprasenjeet](https://github.com/theprasenjeet)
 
