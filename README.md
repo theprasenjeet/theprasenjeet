@@ -15,13 +15,19 @@
 <a href="https://kaggle.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="theprasenjeet" height="30" width="40" /></a>
 
 <a href="https://instagram.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://medium.com/@theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://www.hackerearth.com/@theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@theprasenjeet" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
