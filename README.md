@@ -9,15 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="theprasenjeet" height="30" width="40" /></a>
-<a href="https://twitter.com/kravingo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kravingo" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theprasenjeet" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17277435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17277435" height="30" width="40" /></a>
-<a href="https://codesandbox.com/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="theprasenjeet" height="30" width="40" /></a>
-<a href="https://fb.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theprasenjeet" height="30" width="40" /></a>
+
 <a href="https://instagram.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theprasenjeet" height="30" width="40" /></a>
-<a href="https://www.behance.net/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="theprasenjeet" height="30" width="40" /></a>
 <a href="https://medium.com/@theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="theprasenjeet" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theprasenjeet" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theprasenjeet" height="30" width="40" /></a>
@@ -33,5 +30,4 @@
 
 <!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprasenjeet&hide=html&hide_title=true&hide_border=true&&count_private=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/theprasenjeet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theprasenjeet" /></a></p><br><br>
+<br>
