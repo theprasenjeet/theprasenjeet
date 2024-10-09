@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/540c0359-56c4-46bb-a0af-7cfa0141f5a1)<p align="center">
-  <img width="200" src="https://github.com/theprasenjeet/theprasenjeet/blob/main/profile.png" alt="Prasen's Profile Image">
+  <p align="center">
+    <img width="200" src="https://github.com/theprasenjeet/theprasenjeet/blob/main/profile.png">
 </p>
-
 <h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
