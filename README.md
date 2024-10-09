@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/540c0359-56c4-46bb-a0af-7cfa0141f5a1)<p align="center">
   <img width="200" src="https://github.com/theprasenjeet/theprasenjeet/blob/main/profile.png" alt="Prasen's Profile Image">
 </p>
 
