@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4e662eec-2013-4cc2-b21b-95fc917aacd4)![image](https://github.com/user-attachments/assets/137d24e0-a1ef-43af-b563-614f4e53988a)<h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
 <p align="center">  
