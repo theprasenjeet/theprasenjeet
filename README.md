@@ -1,39 +1,113 @@
-<h1 align="center">Howdy 👋, I'm \Prasen </h1>
-<h3 align="center">Data Scientist</h3>
-
-<p align="center"> <a href="https://github.com/theprasenjeet"><img src="https://github-profile-trophy.vercel.app/?username=theprasenjeet&theme=dark_lover&column=4&margin-w=15&margin-h=15&no-frame=true" alt="theprasenjeet" /></a> </p>
-
-- 👯 Connect with me on [LinkedIn](https://in.linkedin.com/in/theprasenjeet)
-
-- 💬 Ask me about **ML**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://instagram.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://medium.com/@theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://codeforces.com/profile/theprasenjeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theprasenjeet" height="30" width="40" /></a>
-
-<a href="https://www.hackerearth.com/@theprasenjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@theprasenjeet" height="30" width="40" /></a>
-
+<p align="center">
+  <img width="200" src="https://github.com/theprasenjeet/theprasenjeet/blob/main/profile.png" alt="Prasen's Profile Image">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+</p>
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=theprasenjeet.theprasenjeet" alt="Profile views">
+  <a href="https://github.com/theprasenjeet">
+    <img src="https://img.shields.io/github/followers/theprasenjeet?label=Follow&style=social" alt="Github">
+  </a>
+</p>
 
+<div size="20px"> Hi! My name is Prasen. Thank you for taking the time to view my GitHub Profile 😊 </div>
 
-<!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprasenjeet&hide=html&hide_title=true&hide_border=true&&count_private=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"></h2>
+<img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+
+<ul>
+  <li>
+    <p>🔭 I’m currently working on Data Science and Machine Learning projects</p>
+  </li>
+  <li>
+    <p>🌱 I’m currently learning Advanced Machine Learning, Deep Learning, and Big Data technologies</p>
+  </li>
+  <li>
+    <p>👯 I’m looking to collaborate on Open Source Data Science projects</p>
+  </li>
+  <li>
+    <p>💬 Ask me about SQL, Python, R, Machine Learning, Data Visualization</p>
+  </li>
+  <li>
+    <p>⚡ Fun fact: I love working with data and turning it into actionable insights!</p>
+  </li>
+</ul>
+
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+
+<!-- Languages and Tools Icons -->
+<a href="https://www.python.org" target="_blank"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=reactjs&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="ReactJS"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=javascript&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=scikit&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg" alt="Scikit-Learn"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=c&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" alt="C"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=cpp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=sqlite&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" alt="SQLite"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=pytorch&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" alt="PyTorch"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=css&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=html&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=android&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" alt="Android"> </a>
+<a href="https://github.com/theprasenjeet?tab=repositories&q=&type=&language=csharp&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#"> </a>
+
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/theprasenjeet" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
+  </a>
+  <a href="https://www.twitter.com/theprasenjeet" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter">
+  </a>
+  <a href="https://medium.com/@theprasenjeet" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium">
+  </a>
+  <a href="https://theprasenjeet.me/" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Portfolio">
+  </a>
+  <a href="https://www.github.com/theprasenjeet" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
+  </a>
+</p>
 
 <br>
+<br>
+<br>
+
+<p align="center">
+  <a href="https://git.io/praseanscience">
+    <img src="https://activity-graph.herokuapp.com/graph?username=theprasenjeet&theme=tokyonight" alt="Prasen's GitHub Activity Graph">
+  </a>
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        <img src="https://github-readme-stats.vercel.app/api?username=theprasenjeet&show_icons=true&theme=tokyonight" alt="Prasen's GitHub Stats">
+      </th>
+      <th>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprasenjeet&theme=tokyonight" alt="Prasen's GitHub Streak">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprasenjeet&theme=tokyonight" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=theprasenjeet&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="GitHub Stars">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
+</p>
+
+<br>
+<hr>
+<p align="center">Credits: <a href="https://github.com/theprasenjeet">Prasen Jeet</a></p>
+<p align="center">Last Edited on: 04/09/2024</p>
