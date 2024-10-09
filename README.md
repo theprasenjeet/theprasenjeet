@@ -20,13 +20,7 @@
     <p>🔭 I’m currently working on <strong>Advanced ML Algorithms for the Stock Market</strong></p>
   </li>
   <li>
-    <p>🌱 I’m currently learning <strong>Advanced Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Big Data Technologies</strong></p>
-  </li>
-  <li>
     <p>👯 I’m looking to collaborate on <strong>Open Source Data Science</strong> projects</p>
-  </li>
-  <li>
-    <p>💬 Ask me about <strong>SQL</strong>, <strong>Python</strong>, <strong>R</strong>, <strong>Machine Learning</strong>, <strong>Data Visualization</strong></p>
   </li>
   <li>
     <p>⚡ Fun fact: I love working with data and turning it into actionable insights!</p>
