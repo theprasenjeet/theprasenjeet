@@ -2,8 +2,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
-  <a href="https://github.com/theprasenjeet">
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)  <a href="https://github.com/theprasenjeet">
     <img src="https://img.shields.io/github/followers/theprasenjeet?label=Follow&style=social" alt="GitHub Follow">
   </a>
 </p>
