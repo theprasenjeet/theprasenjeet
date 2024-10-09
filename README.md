@@ -1,5 +1,5 @@
   <p align="center">
-    <img width="200" src="https://github.com/theprasenjeet/theprasenjeet/blob/main/profile.png">
+    <img width="200" src="[https://github.com/theprasenjeet/theprasenjeet/blob/main/profile.png](https://avatars.githubusercontent.com/u/61612808?s=400&u=99ed2dd7f4e89cb812bfb829355756251264a690&v=4)">
 </p>
 <h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
