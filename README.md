@@ -1,9 +1,7 @@
 <h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p align="center">
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=theprasenjeet" alt="Profile views">
-  
+<p align="center">  
   
   <a href="https://github.com/theprasenjeet">
     <img src="https://img.shields.io/github/followers/theprasenjeet?label=Follow&style=social" alt="GitHub Follow">
