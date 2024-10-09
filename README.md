@@ -19,16 +19,10 @@
 
 <ul>
   <li>
-    <p>🔭 I’m currently working on Data Science and Machine Learning projects</p>
-  </li>
-  <li>
-    <p>🌱 I’m currently learning Advanced Machine Learning, Deep Learning, and Big Data technologies</p>
+    <p>🔭 I’m currently working on **Advanced ML Algorithms for the Stock Market**</p>
   </li>
   <li>
     <p>👯 I’m looking to collaborate on Open Source Data Science projects</p>
-  </li>
-  <li>
-    <p>💬 Ask me about SQL, Python, R, Machine Learning, Data Visualization</p>
   </li>
   <li>
     <p>⚡ Fun fact: I love working with data and turning it into actionable insights!</p>
@@ -109,5 +103,5 @@
 
 <br>
 <hr>
-<p align="center">Credits: <a href="https://github.com/theprasenjeet">Prasen Jeet</a></p>
-<p align="center">Last Edited on: 04/09/2024</p>
+<p align="center">Credits: <a href="https://github.com/theprasenjeet">Prasenjeet</a></p>
+
