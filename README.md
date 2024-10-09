@@ -43,7 +43,7 @@
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
   </a>
   <a href="https://www.amazon.com/author/theprasenjeet" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/amazon.svg" alt="Amazon">
+    <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon">
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 <br>
 
 <p align="center">
-  <a href="https://git.io/praseanscience">
+  <a href="https://github.com/theprasenjeet">
     <img src="https://activity-graph.herokuapp.com/graph?username=theprasenjeet&theme=tokyonight" alt="Prasen's GitHub Activity Graph">
   </a>
 </p>
