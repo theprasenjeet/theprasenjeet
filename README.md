@@ -33,22 +33,20 @@
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <p align="left">
+  <a href="https://open.spotify.com/artist/5eF6s5uKHhTRRbgfEZrOR5?si=PsisSJAFSfKcvIhXMSC0nQ" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg" alt="Spotify">
+  </a>
+  <a href="https://instagram.com/poetwrd" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" alt="Instagram">
+  </a>
   <a href="https://www.linkedin.com/in/theprasenjeet" target="_blank">
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.twitter.com/theprasenjeet" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter">
-  </a>
-  <a href="https://medium.com/@theprasenjeet" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="Medium">
-  </a>
-  <a href="https://theprasenjeet.me/" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Portfolio">
-  </a>
-  <a href="https://www.github.com/theprasenjeet" target="_blank">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub">
+  <a href="https://www.amazon.com/author/theprasenjeet" target="_blank">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/amazon.svg" alt="Amazon">
   </a>
 </p>
+
 
 <br>
 <br>
