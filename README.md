@@ -52,11 +52,7 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://github.com/theprasenjeet">
-    <img src="https://activity-graph.herokuapp.com/graph?username=theprasenjeet&theme=tokyonight" alt="Prasen's GitHub Activity Graph">
-  </a>
-</p>
+
 
 <table align="center">
   <thead>
