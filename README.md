@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/137d24e0-a1ef-43af-b563-614f4e53988a)<h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+![image](https://github.com/user-attachments/assets/4e662eec-2013-4cc2-b21b-95fc917aacd4)![image](https://github.com/user-attachments/assets/137d24e0-a1ef-43af-b563-614f4e53988a)<h1 align="center"> Hello Fellow &lt; Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
 <p align="center">  
@@ -53,10 +53,10 @@
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg" alt="Scikit-Learn"> 
   </a>
   <a href="https://keras.io/" target="_blank"> 
-    <img width="32px" src="[https://www.vectorlogo.zone/logos/keras/keras-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G7aNWlBFrxvcqPJlFkdUqQ3mSxFokba9g&s)" alt="Keras"> 
+    <img width="32px" src="https://www.vectorlogo.zone/logos/keras/keras-icon.svg" alt="Keras"> 
   </a>
   <a href="https://www.numpy.org/" target="_blank"> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/numpy.svg" alt="NumPy"> 
+    <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg" alt="NumPy"> 
   </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg" alt="Pandas"> 
