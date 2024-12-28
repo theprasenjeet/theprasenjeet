@@ -80,7 +80,6 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
 </p>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'K3K218392M');kofiwidget2.draw();</script> 
 
 <br>
 <hr>
